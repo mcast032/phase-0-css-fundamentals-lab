@@ -3,3 +3,56 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: center;
+}
+
+nav{
+  text-align: center;
+}
+
+figure{
+  text-align: center;
+  
+}
+
+#featured-property{
+  text-align: center;
+ }
+
+ #featured-property ~ p{
+    text-align: center;
+    width: 800px;
+
+
+
+ }
+
+ .picturetext{
+  padding-left: 200px;
+  padding-right: 200px;
+  padding: auto;
+
+ }
+
+
+
+#featured-property {
+  text-align: center;
+}
+
+.picturetext {
+  padding-left: 200px;
+  padding-right: 200px;
+  padding: auto;
+}
+
+
+
+#details {
+  display: flex; 
+  justify-content: space-around; 
+  background-color: red; 
+  padding: 20px; 
+}
